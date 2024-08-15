@@ -25,7 +25,7 @@ author:
   name             : "Jihwan Kim"
   pronouns         : # example: "he/him"  
   bio              : "Embedded Systems, Sensor Systems, Near-/in-sensor Computing"
-  location         : "Seoul"
+  location         : "Suwon"
   employer         : "Sungkyunkwan University"
   uri              : # URL
   email            : "jihwan.kim@g.skku.edu" 
@@ -48,14 +48,14 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : #
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : "g1_ki"
+  instagram        : #
   lastfm           : # Username
   linkedin         : "esmjihwankim"
   mastodon         : # URL
