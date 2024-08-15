@@ -6,7 +6,7 @@
 
 main:
   - title: "Publications"
-    url: /publications/
+    url: "https://scholar.google.com/citations?user=yncKkKwAAAAJ&hl=ko&authuser=2"
 
   # - title: "Talks"
   #   url: /talks/    
@@ -14,10 +14,10 @@ main:
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+  # - title: "Portfolio"
+  #   url: /portfolio/
         
-  # - title: "Blog Posts"
+  - title: "More about myself"
   #   url: /year-archive/
     
   - title: "CV"
