@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: 
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,13 +9,13 @@ redirect_from:
 
 I am an Undergraduate-Masters combined course student at [Won Research Group](https://www.skkuwongroup.online/), Sungkyunkwan University(SKKU). My research interests include edge computing in sensors and sensory-neuromorphic systems.
 
-Theories and development progress related to my research is recorded in my tech blog and my Github.
+Theories and development progress related to my research is recorded in my [tech blog](https://g1embed.tistory.com/) and my [Github](https://github.com/esmjihwankim).
 
 Education
 ======
 - M.S., Electrical and Computer Engineering, Sungkyunkwan University
-    - Advisor : Prof.[Sang Min Won](https://scholar.google.co.kr/citations?user=YZPo--YAAAAJ&hl=en)
-    - Mar 2023 - Jun 2024
+    - Advisor : Prof. [Sang Min Won](https://scholar.google.co.kr/citations?user=YZPo--YAAAAJ&hl=en)
+    - Mar 2023 - Feb 2025
 - B.S., Electrical and Electronic Engineering, Sungkyunkwan University
     - Mar 2018 - Feb 2023
 - B.S., Bio-Mechatronic Engineering, Sungkyunkwan University
@@ -23,34 +23,33 @@ Education
 
 Experience
 ======
-- Intern(Long Term Training Program), Samsung Electronics
-    - S.LSI Advanced Sensor Development
-    - Image sensors, Image Signal Processing, Software Framework, Design Patterns
-    - Aug 2020 - Dec 2020
-- Intern, Fromnull Software
-    - Embedded Software, Application Software
-    - Apr 2018 - Nov 2018
-- Sergeant, Republic of Korea Army(ROKA)
-    - English Interpretor at USAG Humphreys
-    - Jul 2016 - Apr 2018
+- Research Assistant, SKKU, Won Research Group (Dec 2020 - Current)
+    - Sensor systems, neuromorphic systems, near-sensor computing, quantization
+- Intern(Long Term Training Program), Samsung Electronics S.LSI (Aug 2020 - Dec 2020)
+    - Image sensors, image signal processing, software framework, enterprise design patterns
+- Intern, Fromnull Software (Apr 2018 - Nov 2018)
+    - Embedded software, application software
+- Sergeant, Republic of Korea Army(ROKA) - US Joint Forces (Jul 2016 - Apr 2018)
+    - Military interpreter, signal intelligence
 
-Awards & Scholarships
+Awards & Honors
 ======
+
+- [Best On-Site Conference Poster Presentation](http://kcs.cosar.or.kr/2024/awards.jsp)
+    - Grantor : Korean Conference on Semiconductors (KCS), April 2023
+- [Surim Foundation Award: Talent in Engineering Division](https://www.surim.or.kr/kr/talent/winner01.php?part_idx=9)
+    - Grantor : Surim Foundation, Dec 2022
+- [Headquarters Invitation and Technology Presentation at Qualcomm](https://www.thelec.kr/news/articleView.html?idxno=17771)
+    - Grantor : Christiano Amon, Qualcomm Inc, San Diego, CA, USA, Jul 2022
 - [2021 ICT Colloquium - Research Award](https://www.skku.ac.kr/skku/campus/skk_comm/news03.do?mode=view&articleNo=93695&article.offset=0&articleLimit=10)
-    - Nov 2021
-    - Grantor : Minister, Ministry of Science and ICT, South Korea
+    - Grantor : Minister, Ministry of Science and ICT, South Korea, Nov 2021
 - Capstone Project Award
-    - Jun 2021
-    - Grantor : Sungkyunkwan University
-- [SKKU President’s List](https://presidentlist.skku.edu/presidentlist/2020_list.do)
-    - Dec 2020
-    - Grantor : President, Sungkyunkwan University
+    - Grantor : Sungkyunkwan University, Jun 2021
+- [SKKU President’s List](https://presidentlist.skku.edu/presidentlist/2020_list.do) 
+    - Grantor : President, Sungkyunkwan University, Dec 2020
 - Design Award, Smart Car Design Competition
-    - Aug 2020
-    - Grantor : Sungkyunkwan University
+    - Grantor : Sungkyunkwan University, Aug 2020
 - Academic Scholarship
-    - Jun 2020, Dec 2020
-    - Grantor : Sungkyunkwan University
+    - Grantor : Sungkyunkwan University, Jun 2020, Dec 2020
 - [Creativity-Success Scholarship](https://www.skku.edu/main_renew/campus/skk_comm/news.do?mode=view&articleNo=76944&article.offset=0&articleLimit=10)
-    - Dec 2019
-    - Grantor : Sungkyunkwan University
+    - Grantor : Sungkyunkwan University, Dec 2019
