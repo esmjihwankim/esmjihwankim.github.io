@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Undergraduate-Masters combined course student at [Won Research Group](https://www.skkuwongroup.online/), Sungkyunkwan University(SKKU). My research interests include low-power embedded systems, computer architecture, and integrated circuits for sensing applications, with a focus on edge inferencing in sensor systems and beyond-CMOS sensor and neuromorphic semiconductor integration. I believe that bringing advanced algorithms to the edge can enhance sensor systems to aid people, save lives and drive innovation across various contexts, such as (1) wearable biomedical monitoring and (2) computing in space applications.
+I am a combined Undergraduate-Masters student in the [Won Research Group](https://www.skkuwongroup.online/) at Sungkyunkwan University (SKKU). My current research interests include low-power embedded systems, computer architecture, and integrated circuits for sensing applications, with a focus on edge inferencing in sensor systems and beyond-CMOS sensor and neuromorphic semiconductor integration. I believe that bringing advanced algorithms to the edge can enhance sensor systems to aid people, save lives and drive innovation across various contexts, such as (1) wearable biomedical monitoring and (2) computing in space applications.
 
 I am also a Fulbright Scholar (Principal Candidate). 
 
@@ -19,13 +19,13 @@ Education
     - Advisor : Prof. [Sang Min Won](https://scholar.google.co.kr/citations?user=YZPo--YAAAAJ&hl=en)
     - Mar 2023 - Feb 2025
 - B.S., Electrical and Electronic Engineering, Sungkyunkwan University
-    - Mar 2018 - Feb 2023
+    - Sep 2019 - Feb 2023
 - B.S., Bio-Mechatronic Engineering, Sungkyunkwan University
     - Mar 2015 - Feb 2023
 
 Experience
 ======
-- Research Assistant, SKKU, Won Research Group (Dec 2020 - Current)
+- Research Assistant, SKKU Won Research Group (Dec 2020 - Current)
     - Sensor systems, neuromorphic systems, near-sensor computing, quantization
 - Visiting Researcher, University of Pennsylvania (Jul 2023)
     - Research collaboration (Advisor: Prof. Mark G. Allen)
@@ -38,7 +38,7 @@ Experience
 
 Awards & Honors
 ======
-- Fulbright US-KOREA Presidential STEM Initiative Award
+- Fulbright US-Korea Presidential STEM Initiative Award
     - Grantor: U.S. Department of State, September 2024
 - Hyundai Motors Research Fellowship 
     - Grantor: Hyundai Motor Company, June 2024
