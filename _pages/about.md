@@ -38,8 +38,6 @@ Experience
 
 Awards & Honors
 ======
-- Fulbright US-Korea Presidential STEM Initiative Award
-    - Grantor: U.S. Department of State, September 2024
 - Hyundai Motors Research Fellowship 
     - Grantor: Hyundai Motor Company, June 2024
 - [Best On-Site Conference Poster Presentation](http://kcs.cosar.or.kr/2024/awards.jsp)
