@@ -7,9 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a combined Undergraduate-Masters student in the [Won Research Group](https://www.skkuwongroup.online/) at Sungkyunkwan University (SKKU). My current research interests include low-power embedded systems, computer architecture, and integrated circuits for sensing applications, with a focus on edge inferencing in sensor systems and beyond-CMOS sensor and neuromorphic semiconductor integration. I believe that bringing advanced algorithms to the edge can enhance sensor systems to aid people, save lives and drive innovation across various contexts, such as (1) wearable biomedical monitoring and (2) computing in space applications.
-
-I am also a Fulbright Scholar (Principal Candidate). 
+I am a reseach engineer at Hyundai Motor Company, focusing on vehicle security and digital key systems. I finished my combined Undergraduate-Masters program at the [Won Research Group](https://www.skkuwongroup.online/) at Sungkyunkwan University (SKKU). My current research interests include low-power embedded systems, computer architecture, and integrated circuits for sensing applications, with a focus on edge inferencing in sensor systems and beyond-CMOS sensor and neuromorphic semiconductor integration. I believe that bringing advanced algorithms to the edge can enhance sensor systems to aid people, save lives and drive innovation across various contexts, such as (1) wearable biomedical monitoring and (2) computing in space applications.
 
 Theories and progress related to my research are recorded in my [tech blog](https://g1embed.tistory.com/) and my [Github](https://github.com/esmjihwankim).
 
@@ -25,15 +23,17 @@ Education
 
 Experience
 ======
-- Research Assistant, SKKU Won Research Group (Dec 2020 - Current)
+- Research Engineer, [Hyundai Motor Company]() (Jan 2025 - Current)
+    - Collaboration with Waymo/Google for digital key systems working with self-driving systems
+- Research Assistant, [SKKU Won Research Group]() (Dec 2020 - Feb 2025)
     - Sensor systems, neuromorphic systems, near-sensor computing, quantization
-- Visiting Researcher, University of Pennsylvania (Jul 2023)
+- Visiting Researcher, [University of Pennsylvania]() (Jul 2023)
     - Research collaboration (Advisor: Prof. Mark G. Allen)
-- Intern(Long Term Training Program), Samsung Electronics S.LSI (Aug 2020 - Dec 2020)
+- Intern(Long Term Training Program), [Samsung Electronics S.LSI]() (Aug 2020 - Dec 2020)
     - Image sensors, image signal processing, software framework, enterprise design patterns
-- Intern, Fromnull Software (Apr 2018 - Nov 2018)
+- Intern, [Fromnull Software]() (Apr 2018 - Nov 2018)
     - Embedded software, application software
-- Sergeant, Republic of Korea Army(ROKA) - US Joint Forces (Jul 2016 - Apr 2018)
+- Sergeant, [Republic of Korea Army(ROKA) - U.S. Joint Forces]() (Jul 2016 - Apr 2018)
     - Military interpreter, SIGINT @ USAG Humphreys 
 
 Awards & Honors
