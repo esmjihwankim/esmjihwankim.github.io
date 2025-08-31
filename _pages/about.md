@@ -27,8 +27,6 @@ Education
 
 Experience
 ======
-- Research Assistant, [CMU EECS Laboratory]() (August 2025 - Current)
-    - In-/near-sensor computing, CMOS image sensor architectures, computer architectures 
 - Research Scholar/Engineer, [Hyundai Motor Company]() (July 2024 - August 2025)
     - Collaboration with Waymo/Google for digital key systems working with self-driving systems
 - Research Assistant, [SKKU Won Research Group]() (Dec 2020 - Feb 2025)
