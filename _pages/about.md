@@ -44,7 +44,7 @@ Experience
 
 Awards & Honors
 ======
-- NIIED Ph.D. Fellowship 
+- [NIIED Ph.D. Fellowship](http://www.niied.go.kr/user/nd83075.do?View&searchWord=&itemShCd1=&page=1&pageSC=SORT_ORDER&pageSO=DESC&dmlType=&pageST=SUBJECT&pageSV=&boardNo=00011049&surveyVal=1&surveyVal=2&surveyVal=3&surveyVal=4&surveyVal=5&surveyContent=&site_link=http://www.moe.go.kr) 
     - Grantor: NIIED, South Korean Government, July 2025
 - Hyundai Motors Research Fellowship 
     - Grantor: Hyundai Motor Company, June 2024
