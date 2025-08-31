@@ -1,6 +1,6 @@
 /* Base font size for body text */
 body {
-  font-size: 11px; /* default is ~16px */
+  font-size: 10px; /* default is ~16px */
 }
 
 /* Headings */
@@ -16,6 +16,6 @@ h3 {
 
 /* Paragraph text inside posts */
 .page__content p {
-  font-size: 11px;
+  font-size: 10px;
   line-height: 1.7;
 }
