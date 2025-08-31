@@ -7,12 +7,16 @@ redirect_from:
   - /about.html
 ---
 
-I am a reseach engineer at Hyundai Motor Company, focusing on vehicle security and digital key systems. I finished my combined Undergraduate-Masters program at the [Won Research Group](https://www.skkuwongroup.online/) at Sungkyunkwan University (SKKU). My current research interests include low-power embedded systems, computer architecture, and integrated circuits for sensing applications, with a focus on edge inferencing in sensor systems and beyond-CMOS sensor and neuromorphic semiconductor integration. I believe that bringing advanced algorithms to the edge can enhance sensor systems to aid people, save lives and drive innovation across various contexts, such as (1) wearable biomedical monitoring and (2) computing in space applications.
+I am a Ph.D. student at Carnegie Mellon University. Prior to this, I worked as a research engineer at Hyundai Motor Company, focusing on vehicle security and embedded systems. I received both my B.S. and M.S. degrees from Sungkyunkwan University (SKKU), where I was advised by Prof. Sang Min Won in the Won Research Group.
+
+My current research interests include integrated circuits for sensing applications, with a focus on near-/in-sensor computing, low-power embedded systems, computer architectures, and beyond-CMOS sensor and neuromorphic semiconductor integration. I believe that advancing algorithms at the edge can enhance sensor systems to aid people, save lives, and drive innovation in areas such as (1) unmanned mobility, (2) space computing, and (3) wearable biomedical monitoring.
 
 Theories and progress related to my research are recorded in my [tech blog](https://g1embed.tistory.com/) and my [Github](https://github.com/esmjihwankim).
 
 Education
 ======
+- Ph.D., Electrical and Computer Engineering, Carnegie Mellon University 
+    - August 2025 - Current
 - M.S., Electrical and Computer Engineering, Sungkyunkwan University
     - Advisor : Prof. [Sang Min Won](https://scholar.google.co.kr/citations?user=YZPo--YAAAAJ&hl=en)
     - Mar 2023 - Feb 2025
@@ -23,7 +27,9 @@ Education
 
 Experience
 ======
-- Research Engineer, [Hyundai Motor Company]() (Jan 2025 - Current)
+- Research Assistant, [CMU EECS Laboratory]() (August 2025 - Current)
+    - In-/near-sensor computing, CMOS image sensor architectures, computer architectures 
+- Research Scholar/Engineer, [Hyundai Motor Company]() (July 2024 - August 2025)
     - Collaboration with Waymo/Google for digital key systems working with self-driving systems
 - Research Assistant, [SKKU Won Research Group]() (Dec 2020 - Feb 2025)
     - Sensor systems, neuromorphic systems, near-sensor computing, quantization
@@ -38,6 +44,8 @@ Experience
 
 Awards & Honors
 ======
+- NIIED Ph.D. Fellowship 
+    - Grantor: National Institute of International Education, South Korean Government, July 2025
 - Hyundai Motors Research Fellowship 
     - Grantor: Hyundai Motor Company, June 2024
 - [Best On-Site Conference Poster Presentation](http://kcs.cosar.or.kr/2024/awards.jsp)
