@@ -1,0 +1,21 @@
+/* Base font size for body text */
+body {
+  font-size: 12px; /* default is ~16px */
+}
+
+/* Headings */
+h1 {
+  font-size: 2.2rem;
+}
+h2 {
+  font-size: 1.8rem;
+}
+h3 {
+  font-size: 1.5rem;
+}
+
+/* Paragraph text inside posts */
+.page__content p {
+  font-size: 12px;
+  line-height: 1.7;
+}

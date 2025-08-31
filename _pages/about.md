@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student at Carnegie Mellon University. Prior to this, I worked as a research engineer at Hyundai Motor Company, focusing on vehicle security and embedded systems. I received both my B.S. and M.S. degrees from Sungkyunkwan University (SKKU), where I was advised by Prof. Sang Min Won in the Won Research Group.
+I am a Ph.D. student at Carnegie Mellon University. Prior to this, I worked as a research engineer at Hyundai Motor Company, focusing on vehicle security and embedded systems. I received both my B.S. and M.S. degrees from Sungkyunkwan University (SKKU), where I was advised by Prof. Sang Min Won in the [Won Research Group](https://www.skkuwongroup.online/).
 
 My current research interests include integrated circuits for sensing applications, with a focus on near-/in-sensor computing, low-power embedded systems, computer architectures, and beyond-CMOS sensor and neuromorphic semiconductor integration. I believe that advancing algorithms at the edge can enhance sensor systems to aid people, save lives, and drive innovation in areas such as (1) unmanned mobility, (2) space computing, and (3) wearable biomedical monitoring.
 
@@ -45,7 +45,7 @@ Experience
 Awards & Honors
 ======
 - NIIED Ph.D. Fellowship 
-    - Grantor: National Institute of International Education, South Korean Government, July 2025
+    - Grantor: NIIED, South Korean Government, July 2025
 - Hyundai Motors Research Fellowship 
     - Grantor: Hyundai Motor Company, June 2024
 - [Best On-Site Conference Poster Presentation](http://kcs.cosar.or.kr/2024/awards.jsp)

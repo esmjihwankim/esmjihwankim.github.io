@@ -25,10 +25,10 @@ author:
   name             : "Jihwan Kim"
   pronouns         : # example: "he/him"  
   bio              : "Embedded Systems, Sensor Systems, Near-/in-sensor Computing"
-  location         : "Suwon"
-  employer         : "Sungkyunkwan University"
+  location         : "Pittsburgh, PA, USA"
+  employer         : "Carnegie Mellon University"
   uri              : # URL
-  email            : "jihwan.kim@g.skku.edu" 
+  email            : "kjihwan.research@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -236,6 +236,7 @@ defaults:
       comments: true
       share: true
       related: true
+      custom_css: custom.css
   # _pages
   - scope:
       path: ""
