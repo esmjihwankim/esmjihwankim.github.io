@@ -7,15 +7,16 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student at Carnegie Mellon University. Prior to this, I worked as a research engineer at Hyundai Motor Company, focusing on vehicle security and embedded systems. I received both my B.S. and M.S. degrees from Sungkyunkwan University (SKKU), where I was advised by Prof. Sang Min Won in the [Won Research Group](https://www.skkuwongroup.online/).
+I am a Ph.D. student at Carnegie Mellon University, where I am fortunate to be advised by Prof. [Anthony Rowe](https://users.ece.cmu.edu/~agr/) and to work with [Tianshu Huang](https://tianshu.io/). Prior to this, I worked as a research engineer at [Hyundai Motor Company](), focusing on vehicle security and embedded systems. I received both my B.S. and M.S. degrees from Sungkyunkwan University (SKKU).
 
-My current research interests include integrated circuits for sensing applications, with a focus on near-/in-sensor computing, low-power embedded systems, computer architectures, and beyond-CMOS sensor and neuromorphic semiconductor integration. I believe that advancing algorithms at the edge can enhance sensor systems to aid people, save lives, and drive innovation in areas such as (1) unmanned mobility, (2) space computing, and (3) wearable biomedical monitoring.
+My current research interests include sensing systems, with a focus on modern machine learning, low-power embedded systems, and computer architecture. I believe that bringing advanced algorithms to the edge can enhance sensor systems to aid people, save lives, and drive innovation in areas such as (1) unmanned mobility, (2) space computing, and (3) wearable biomedical monitoring.
 
-Theories and progress related to my research are recorded in my [tech blog](https://g1embed.tistory.com/) and my [Github](https://github.com/esmjihwankim).
+Theories and progress related to my research are recorded in my [Github](https://github.com/esmjihwankim).
 
 Education
 ======
 - Ph.D., Electrical and Computer Engineering, Carnegie Mellon University 
+    - Advisor : Prof. [Anthony Rowe](https://users.ece.cmu.edu/~agr/)
     - August 2025 - Current
 - M.S., Electrical and Computer Engineering, Sungkyunkwan University
     - Advisor : Prof. [Sang Min Won](https://scholar.google.co.kr/citations?user=YZPo--YAAAAJ&hl=en)
@@ -27,16 +28,14 @@ Education
 
 Experience
 ======
-- Research Scholar/Engineer, [Hyundai Motor Company]() (July 2024 - August 2025)
-    - Collaboration with Waymo/Google for digital key systems working with self-driving systems
-- Research Assistant, [SKKU Won Research Group]() (Dec 2020 - Feb 2025)
-    - Sensor systems, neuromorphic systems, near-sensor computing, quantization
-- Visiting Researcher, [University of Pennsylvania]() (Jul 2023)
-    - Research collaboration (Advisor: Prof. Mark G. Allen)
-- Intern(Long Term Training Program), [Samsung Electronics S.LSI]() (Aug 2020 - Dec 2020)
-    - Image sensors, image signal processing, software framework, enterprise design patterns
+- Research Intern, [Bosch Research](https://www.bosch.com/research/) (May 2026 - August 2026)
+    - UWB radar vision: sensing, mapping, and localization
+- Research Scholar/Engineer, [Hyundai Motor Company](https://www.hyundai.com/worldwide/en) (July 2024 - August 2025)
+    - Collaboration with Waymo/Google for digital key systems working with self-driving systems.
+- Intern(Long Term Training Program), [Samsung Electronics S.LSI](https://www.samsung.com/us/) (Aug 2020 - Dec 2020)
+    - Image sensors, image signal processing, software framework
 - Intern, [Fromnull Software]() (Apr 2018 - Nov 2018)
-    - Embedded software, application software
+    - Embedded software for FMCW radar sensing 
 - Sergeant, [Republic of Korea Army(ROKA) - U.S. Joint Forces]() (Jul 2016 - Apr 2018)
     - Military interpreter, SIGINT @ USAG Humphreys 
 
