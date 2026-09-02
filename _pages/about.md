@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student at Carnegie Mellon University, where I am fortunate to be advised by Prof. [Anthony Rowe](https://users.ece.cmu.edu/~agr/) and to work with [Tianshu Huang](https://tianshu.io/). Prior to this, I worked as a research engineer at [Hyundai Motor Company](), focusing on vehicle security and embedded systems. I received both my B.S. and M.S. degrees from Sungkyunkwan University (SKKU).
+I am a Ph.D. student at Carnegie Mellon University, where I am fortunate to be advised by Prof. [Anthony Rowe](). Prior to this, I worked as a research engineer at [Hyundai Motor Company](), focusing on vehicle security and embedded systems. I received both my B.S. and M.S. degrees from Sungkyunkwan University (SKKU) where I had the pleasure of working with Prof. [Sang Min Won]() on a diverse range of sensors and epidermal electronics. 
 
-My current research interests include sensing systems, with a focus on modern machine learning, low-power embedded systems, and computer architecture. I believe that bringing advanced algorithms to the edge can enhance sensor systems to aid people, save lives, and drive innovation in areas such as (1) unmanned mobility, (2) space computing, and (3) wearable biomedical monitoring.
+My current research interests include sensing systems, with a focus on modern machine learning, low-power embedded systems, and computer architecture. I believe that bringing advanced algorithms to the edge can enhance sensor systems to aid people, save lives, and drive innovation in areas such as (1) unmanned mobility and robotics, (2) space computing, and (3) wearable biomedical monitoring. My research and studies are generously supported by the Korean Government through their fellowship program.
 
-Theories and progress related to my research are recorded in my [Github](https://github.com/esmjihwankim).
+I am also fortunate to work closely with brilliant and supportive colleagues such as [Tianshu Huang](https://tianshu.io/) and [Ray Huang](https://huangjuite.github.io/). Theories and progress related to my research are recorded in my [Github](https://github.com/esmjihwankim). If you're interested, I also contribute to CMU's radar interest group, [RadarML](https://radarml.github.io/)
 
 Education
 ======
