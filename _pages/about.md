@@ -11,7 +11,7 @@ I am a Ph.D. student at Carnegie Mellon University, where I am fortunate to be a
 
 My current research interests include sensing systems, with a focus on modern machine learning, low-power embedded systems, and computer architecture. I believe that bringing advanced algorithms to the edge can enhance sensor systems to aid people, save lives, and drive innovation in areas such as (1) unmanned mobility and robotics, (2) space computing, and (3) wearable biomedical monitoring. My research and studies are generously supported by the Korean Government through their fellowship program.
 
-I am also fortunate to work closely with brilliant and supportive colleagues such as [Tianshu Huang](https://tianshu.io/) and [Ray Huang](https://huangjuite.github.io/). Theories and progress related to my research are recorded in my [Github](https://github.com/esmjihwankim). If you're interested, I also contribute to CMU's radar interest group, [RadarML](https://radarml.github.io/)
+I am also grateful to work closely with brilliant and supportive colleagues such as [Tianshu Huang](https://tianshu.io/) and [Ray Huang](https://huangjuite.github.io/). I document my research ideas and progress on my [Github](https://github.com/esmjihwankim). If you're interested, I also contribute to CMU's radar interest group, [RadarML](https://radarml.github.io/)
 
 Education
 ======
